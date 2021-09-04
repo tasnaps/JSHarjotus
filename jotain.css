@@ -1,0 +1,16 @@
+body {
+    background-color: tomato;
+}
+h1 {
+    background-color: brown;
+    font-family: Verdana;
+    font-size: 150%;
+    margin: 50px;
+}
+p {
+    border: 2px solid powderblue;
+    color: red;
+    font-family: Arial;
+    font-size: 120%;
+    padding: 30px
+}
